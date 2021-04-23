@@ -1,4 +1,6 @@
-# TP Project - Ynov ML Elecctive 3
+# TP Project - Ynov ML Elective 3
+Kevin GEORGET  
+Lucas SINGIER
 
 ## Get started
 * Créer son environnement conda
